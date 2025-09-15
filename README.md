@@ -8,6 +8,7 @@ Let get start .
 ========TABLE OF CONTENT========
 
 1. wht is spring boot?
+2. Creating first project? With explanation. 
 
 1. What is Spring boot?
 => Spring boot is a framework for building application in the java programming language.
@@ -33,3 +34,10 @@ the embedded web servers and other necessary components.
 automatic component scanning and embedded sever configuration which would have required more steps
 in a traditional Spring setup. 
 
+
+2. Creating Springboot project step by step:-
+   i. open browser
+   ii. search spring initializer or https://start.spring.io/ click the link
+   iii. there is lot of options but we will dive into maven project using java language.
+   example below :-
+   ![img.png](img.png)
